@@ -1,1 +1,1 @@
-# Budget planner App sample of ionic
+# Sample of budget planner App using ionic
